@@ -1,0 +1,20 @@
+.Scroll_to_Top{
+    position: fixed;
+    bottom: 20px;
+    right: 60px;
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.3s ease;
+    cursor: pointer;
+}
+
+
+.Scroll_to_Top.show{
+opacity: 1;
+}
+.Scroll_to_Top.hide{
+opacity: 0;
+}

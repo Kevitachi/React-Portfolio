@@ -1,0 +1,48 @@
+{
+"experienceData": [ 
+{
+
+"id": "1",
+"companyName":"XYZ Corp",
+"designation":"Software Engineer",
+"statements":[
+    "What i did, what are my strenghts, etc (PLACEHOLDER)",
+    "1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sollicitudin sagittis magna. Curabitur fringilla placerat turpis, quis",
+    "2. bibendum est. Nam lobortis ultrices libero, vel facilisis ligula pharetra quis. Vestibulum bibendum, nibh a mattis varius, dui mauris",
+    "3. faucibus enim, quis malesuada libero erat vitae nisi. Vivamus finibus quam sit amet ornare tempus. Vestibulum blandit, justo a pretium",
+    "4. imperdiet, lacus purus imperdiet arcu, ut consectetur leo augue quis nisi. Nunc lobortis libero a malesuada accumsan. Nam sollicitudin",
+    "5. venenatis urna, id accumsan est ultricies vitae. Mauris ut rutrum lorem. Vestibulum nibh eros, iaculis vestibulum sollicitudin suscipit,",
+    "6. rutrum eget mauris. Cras faucibus massa at lorem ullamcorper, ac luctus tortor rutrum."
+],
+"iconImages": ["react","js","html","css"]
+},
+{
+    "id": "2",
+    "companyName":"QWERTY Corp",
+    "designation":"Web Development",
+    "statements":[
+        "What i did, what are my strenghts, etc (PLACEHOLDER)",
+        "1.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ex ante, dignissim in consectetur sed, condimentum non nunc.",
+        "2. Suspendisse tempor, nibh ut eleifend tincidunt, tortor arcu rutrum metus, nec aliquet est sapien ut orci. Aliquam ultricies eget diam eget",
+        "3. euismod. Pellentesque ac eros rutrum, eleifend neque et, mollis dolor. Donec eget mi erat. In varius augue lacus, sit amet sodales augue",
+        "4. molestie in. Nam scelerisque odio sed mauris luctus, rhoncus faucibus velit cursus. Sed justo ante, interdum a lorem eu, vestibulum",
+        "5. convallis erat. Ut sagittis pretium porttitor. Aliquam pulvinar magna magna, non scelerisque justo pretium ut."
+    ],
+    "iconImages": ["react","js","html","css"]
+    },
+    {
+        "id": "3",
+        "companyName":"Origen",
+        "designation":"Web Development",
+        "statements":[
+            "What i did, what are my strenghts, etc (PLACEHOLDER)",
+            "1.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ex ante, dignissim in consectetur sed, condimentum non nunc.",
+            "2. Suspendisse tempor, nibh ut eleifend tincidunt, tortor arcu rutrum metus, nec aliquet est sapien ut orci. Aliquam ultricies eget diam eget",
+            ". convallis erat. Ut sagittis pretium porttitor. Aliquam pulvinar magna magna, non scelerisque justo pretium ut."
+        ],
+        "iconImages": ["react","js","html","css"]
+        }
+    
+]
+
+}

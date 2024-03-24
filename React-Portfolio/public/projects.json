@@ -1,0 +1,45 @@
+{
+    "projectData":[
+    {
+        "image": "https://i.imgur.com/Q3I8Hbd.png",
+        "title": "Video Game",
+        "sentences":[
+            "This project involved graphic design and game programming as the main tools used, but in the complete run to make it, me and my team learned about really different stuff, going from SFX,GFX, storytelling, level design and a lot of micro stuff.",
+            "Even when it was a small project, starting from zero knoweledge about the different tools we needed to learn made it for sure a challenge.",
+            "And it helped me to discover a big hobby like Graphic Design for videogames and making a videogame itself."
+        ],
+            "link":"https://github.com/Kevitachi/Bug_and_Soft"
+        }
+        
+    ,
+    {
+        "image": "PLACEHOLDER_URL",
+        "title": "PLACEHOLDER_TITLE",
+        "sentences":[
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sodales scelerisque lectus vel sagittis. Integer eu leo nec ipsum.",
+            "semper convallis non faucibus turpis. Nunc in ligula a erat venenatis consectetur. Ut lectus eros, finibus et sagittis placerat, ultricies a",
+            "neque. In hac habitasse platea dictumst. Praesent at orci ac."
+        ],
+            "link":"https://github.com/Kevitachi/"
+        },{
+            "image": "PLACEHOLDER_URL",
+            "title": "PLACEHOLDER_TITLE",
+            "sentences":[
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sodales scelerisque lectus vel sagittis. Integer eu leo nec ipsum.",
+                "semper convallis non faucibus turpis. Nunc in ligula a erat venenatis consectetur. Ut lectus eros, finibus et sagittis placerat, ultricies a",
+                "neque. In hac habitasse platea dictumst. Praesent at orci ac."
+            ],
+                "link":"https://github.com/Kevitachi/"
+            },{
+                "image": "PLACEHOLDER_URL",
+                "title": "PLACEHOLDER_TITLE",
+                "sentences":[
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sodales scelerisque lectus vel sagittis. Integer eu leo nec ipsum.",
+                    "semper convallis non faucibus turpis. Nunc in ligula a erat venenatis consectetur. Ut lectus eros, finibus et sagittis placerat, ultricies a",
+                    "neque. In hac habitasse platea dictumst. Praesent at orci ac."
+                ],
+                    "link":"https://github.com/Kevitachi/"
+                }
+    ]
+   
+}

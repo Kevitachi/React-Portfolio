@@ -1,0 +1,92 @@
+    .homepageContainer{
+        display: flex;
+        align-items: center;
+        height: 90vh;
+
+    }
+
+    .homepage_left{
+        flex: 0.6;
+        padding-right:30px;
+    }
+
+    .homepage_right{
+        flex: 0.4;
+
+    }
+
+    .homepage_right>img{
+        display: none;
+        width: 100%;
+    }
+
+    .textColor1{
+    color: red;
+    }
+
+    .homepage_left_h1{
+        font-size: 22px;
+    }
+    .homepage_left_h2{
+        font-size: 48px;
+        font-weight: bold;
+        margin: -10px;
+    }
+    .iconsContainer {
+        display: flex;
+        justify-content:left;
+        margin-top: 20px;
+    }
+    
+    .homepageLogo {    
+        margin-right: 60px;
+        height: 70px;
+    }
+    .homepageLogo:hover{
+        transform: scale(1.3);
+    }
+
+    .homepage_left_h3{
+        font-size: 30px;
+
+    }
+    
+    .homepage_left_description{
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    .homepage_left_button{
+    
+        margin-top: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        padding: 0.2% 0.5%;
+        margin-right: 90%;
+        background-color: #2D2E30;
+        color: white;
+        cursor: pointer;
+        text-decoration: none; 
+        position: relative; 
+        z-index: 0;
+     
+    }
+    
+    .homepage_left_button:hover::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width:100%;
+        height:100%;
+        background-image: linear-gradient(to bottom, rgb(20, 20, 20), rgb(128, 130, 131));
+        z-index: -1; 
+        color: silver;
+    }
+
+.mailReference{
+    text-decoration: none;
+    display: none;
+}
+    
